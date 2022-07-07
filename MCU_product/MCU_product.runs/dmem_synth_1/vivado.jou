@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jun 24 00:30:18 2022
+# Process ID: 27528
+# Current directory: D:/Workshop/HDL/53MHZtestok/53MHZtestok.runs/dmem_synth_1
+# Command line: vivado.exe -log dmem.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dmem.tcl
+# Log file: D:/Workshop/HDL/53MHZtestok/53MHZtestok.runs/dmem_synth_1/dmem.vds
+# Journal file: D:/Workshop/HDL/53MHZtestok/53MHZtestok.runs/dmem_synth_1\vivado.jou
+#-----------------------------------------------------------
+source dmem.tcl -notrace

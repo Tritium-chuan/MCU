@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../tryagain.gen/sources_1/ip/dmem/sim/dmem.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

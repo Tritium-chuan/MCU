@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jun 23 22:13:13 2022
+# Process ID: 23852
+# Current directory: D:/Workshop/HDL/53MHZtestok/53MHZtestok.runs/ila_0_synth_1
+# Command line: vivado.exe -log ila_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ila_0.tcl
+# Log file: D:/Workshop/HDL/53MHZtestok/53MHZtestok.runs/ila_0_synth_1/ila_0.vds
+# Journal file: D:/Workshop/HDL/53MHZtestok/53MHZtestok.runs/ila_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ila_0.tcl -notrace

@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../53MHZtestok.gen/sources_1/ip/ila_0/sim/ila_0.vhd" \
+
+nosort
